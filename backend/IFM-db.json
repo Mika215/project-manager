@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "id": 1648793495394,
+      "title": "Friday Morning",
+      "description": "This is another test",
+      "auther": "Marco",
+      "released": false
+    },
+    {
+      "id": 1648793578882,
+      "title": "Resto",
+      "description": "online ordering and customer data manager",
+      "auther": "Valentin",
+      "released": true
+    },
+    {
+      "id": 1648793600225,
+      "title": "Connect",
+      "description": "NFT Shop",
+      "auther": "Benoit",
+      "released": false
+    },
+    {
+      "id": 1648793616817,
+      "title": "Customer",
+      "description": "Multi System cloud platform",
+      "auther": "Sebastien",
+      "released": true
+    },
+    {
+      "id": 1648793631473,
+      "title": "E-shop",
+      "description": "online shoping",
+      "auther": "Marco",
+      "released": false
+    },
+    {
+      "id": 1648793649937,
+      "title": "IFMtherium",
+      "description": "Bitcoin managment system",
+      "auther": "Geert",
+      "released": true
+    },
+    {
+      "id": 1648804141858,
+      "title": "Demo Project",
+      "description": "Mutation Fixed",
+      "auther": "Michael",
+      "released": false
+    },
+    {
+      "id": 1648804492905,
+      "title": "Pro Test",
+      "description": "Delete function fixed",
+      "auther": "Michael",
+      "released": true
+    },
+    {
+      "id": 1648804561728,
+      "title": "SwiftoCurrency",
+      "description": "CriptoMoney Transfer",
+      "auther": "Sebastien",
+      "released": false
+    },
+    {
+      "id": 1648805032284,
+      "title": "Demo Project1",
+      "description": "checking filter",
+      "auther": "Valentin",
+      "released": false
+    },
+    {
+      "id": 1648888046541,
+      "title": "More Projects",
+      "description": "Filters fixed",
+      "auther": "Geert",
+      "released": false
+    }
+  ]
+}

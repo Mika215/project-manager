@@ -1,0 +1,16 @@
+{
+  "name": "backend-project-manager",
+  "version": "1.0.0",
+  "description": "simple vuex app",
+  "main": "index.js",
+  "author": "Michael",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "json-server --watch IFM-db.json --port 5000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
